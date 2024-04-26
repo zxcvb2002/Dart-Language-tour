@@ -1,2 +1,2 @@
-# Dart-Language-tour
-A brief, example-based introduction to the Dart language.
+# Introduction to Dart
+This page provides a brief introduction to the Dart language through samples of its main features.
